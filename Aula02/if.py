@@ -35,12 +35,12 @@ else:
     print(f"{num} é igual a 0")
 
 # escreva uma função que receba três argumentos
-1 - num
+1 - num1
 2 - num
 3 - Operação (mul, div, sub, adi)
 4 - o resultado da operação
 
-# Restam 1 minuto
+ Restam 1 minuto
 '''
 # entrada de dados
 n1 = int(input("primeiro valor"))
